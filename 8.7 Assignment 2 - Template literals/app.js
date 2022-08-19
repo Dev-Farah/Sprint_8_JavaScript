@@ -6,7 +6,7 @@ console.log(`Hi ${userName}, Lorem ipsum dolor, sit amet consectetur adipisicing
 tempora deserunt adipisci nobis velit atque natus.`);
 
 // Perform math within a string, using a template literal
-console.log(`Lorem ipsum ${4 + 2} dolor, sit amet consectetur adipisicing elit.`);
+console.log(`Lorem ipsum ${4 + 6} dolor, sit amet consectetur adipisicing elit.`);
 
 // Use a method with our variable inside of the string (using a template literal)
 console.log(`Welcome ${userName.toUpperCase()}!`);
